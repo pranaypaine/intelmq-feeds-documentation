@@ -13,74 +13,91 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 ### [Abuse.ch - Feodo Botnet][1] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* Available for commercial use
 
 
 ### [Abuse.ch - Palevo Worm][2] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* Not available service closed
 
 ### [Abuse.ch - Zeus Botnet][3] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* Not available service closed
 
 ### [Alien Vault - Reputation][4] (O)
 * IntelMQ - Parsing Error
 * Open Source Intelligence
+* cant find anything on use
 
 ### [Arbor - Distributed SSH Brute Force Attacks][5] (O)
 * IntelMQ - Collecting Error
   - 403 Forbidden
 * Closed Source Intelligence
+* Not Working
 
 ### [Blocklist.de - Attacks on the Service Apache][6] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* Can't find any use doc
 
 ### [Blocklist.de - REG-Bots, IRC-Bots or BadBots (Spamming)][7] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* Can't find any use doc
 
 ### [Blocklist.de - Brute-Force Website Logins][8] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* Can't find any use doc
 
 ### [Blocklist.de - Attacks on the Service FTP][9] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* Can't find any use doc
 
 ### [Blocklist.de - Attacks on the Service IMAP, SASL, POP3][10] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* Can't find any use doc
 
 ### [Blocklist.de - IRC Botnet][11] (O)
 * IntelMQ - OK
   - No Present Data
 * Open Source Intelligence
+* Can't find any use doc
 
 ### [Blocklist.de - Attacks on the Service Mail, Postfix][12] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* Can't find any use doc
 
 ### [Blocklist.de - Brute-Force SIP, VOIP or Asterisk-Server Logins Attacks][13] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* Can't find any use doc
 
 ### [Blocklist.de - Attacks on the Service SSH][14] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* Can't find any use doc
 
 ### [Blocklist.de - Strong IPs][15] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* Can't find any use doc
 
 ### [CINSscore.com - The CI Army List][16] (O)
 * IntelMQ - Collecting Error
   - Can not access the link via our IP.
 * Open Source Intelligence
+* No information on usage
 
 ### [Team Cymru - Bogons IP List][19] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* Can use it for commercial
 
 ### [DShield - AS Report][20] (O)
 * IntelMQ - OK
@@ -123,6 +140,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 ### [Spamhaus - DROP (Don't Route Or Peer Lists)][35] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* Not for commercial use
 
 ### [Taichung Blacklist - Malicious Activities][36] (O)
 * IntelMQ - OK
@@ -131,20 +149,24 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 ### [Turris Greylist - Scanning Attack][37] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* No information available for usage
 
 ### [URLVir - Malware][38] (O)
 * IntelMQ - OK
 * Open Source Intelligence
+* Not Available
 
 ### [Autoshun shunlist - Malicious Activities][41] (O)
 * IntelMQ - Collecting Error
   - URL Changed
 * Closed Source Intelligence
+* Provides data for commercial use on request
 
 ### [Spamhaus CERT Insight Portal - Botnet][48] (O)
 * IntelMQ - Collecting Error
   - No API Key
 * Community Source Intelligence
+* not for commercial use
 
 ## Domain Name
 
