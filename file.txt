@@ -1,0 +1,12 @@
+
+Fedo tracker (Available for commercial) -- https://feodotracker.abuse.ch/blocklist/?download=ipblocklist
+Alien Vault (cant find anything on use) -- https://reputation.alienvault.com/reputation.data
+Blocklist.de (All blocklist feeds)(Can't find any use doc) -- https://lists.blocklist.de/lists/
+CINSscore.com - The CI Army List (No information) -- http://cinsscore.com/list/ci-badguys.txt
+Team Cymru (Can use it ) -- https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt
+DShield -- https://www.dshield.org/block.txt
+Danger.rulez.sk -- http://danger.rulez.sk/projects/bruteforceblocker/blist.php
+spamhauz(not for commercial use) -- https://www.spamhaus.org/drop/drop.txt
+Turris Greylist -- https://www.turris.cz/greylist-data/greylist-latest.csv
+urlvir (Not available) -- http://www.urlvir.com/
+ (Provides data for commercial use on request) https://www.autoshun.org/

@@ -166,7 +166,7 @@ Cyber Threat Intelligence Feeds (CTIFeeds)
 * IntelMQ - Collecting Error
   - No API Key
 * Community Source Intelligence
-* not for commercial use
+* Not for commercial use
 
 ## Domain Name
 
